@@ -50,7 +50,8 @@ The objective of this project is to transform raw sales data into meaningful vis
 - Dashboard Screenshots
 
 ## Dashboard Preview
-(Add dashboard screenshot here)
+<img width="1125" height="637" alt="Screenshot 2026-05-20 132154" src="https://github.com/user-attachments/assets/59423bea-eddb-4973-9f9e-ca339f052263" />
+
 
 ## Future Improvements
 - Real-time data integration
